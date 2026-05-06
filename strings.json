@@ -1,0 +1,12 @@
+{
+  "domain": "blauberg_vento",
+  "name": "Blauberg Vento",
+  "codeowners": [],
+  "config_flow": true,
+  "dependencies": [],
+  "documentation": "https://github.com/blauberg-vento/ha-blauberg-vento",
+  "integration_type": "device",
+  "iot_class": "local_polling",
+  "requirements": [],
+  "version": "2.0.0"
+}
